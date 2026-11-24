@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@rowlith/import-core": "workspace:*",
-    "papaparse": "^5.5.3"
+    "papaparse": "^5.7.1"
   },
   "devDependencies": {
     "@types/papaparse": "^5.3.15",
